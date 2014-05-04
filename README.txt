@@ -1,0 +1,1 @@
+A fairly siple script. You just need to make sure you have the googlemusicapi installed, can be done with "pip googlemusicapi". Plugin your credentials where it says to in the source, and run it for your time count. Not the most impressive yet, but I'll find something to do with it eventually.
